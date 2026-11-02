@@ -1,0 +1,9 @@
+Code/wandb/
+Code/__pycache__/
+Code/Utils/__pycache__/
+**/__pycache__/
+*.pyc
+.venv/
+Models/
+*.log
+.DS_Store
