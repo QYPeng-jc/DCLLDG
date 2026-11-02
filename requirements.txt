@@ -1,0 +1,6 @@
+numpy>=1.22
+pandas>=1.5
+scipy>=1.7
+scikit-learn>=1.0
+torch>=1.11
+wandb>=0.15
